@@ -1,0 +1,7 @@
+pip install fastapi
+
+pip install uvicorn
+
+pip install sqlalchemy
+
+uvicorn main:app --reload
